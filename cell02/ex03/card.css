@@ -1,0 +1,89 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+
+}
+.bb {font-size: xx-large;
+
+}
+
+.six {
+    height: 100%;
+    top: 456px;
+    right: 322px;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+}
+
+#six {
+    color: grey;
+    font-size:larger;
+    height: 100%; 
+}
+
+
+.world {
+    color: #777;
+    height: 35px;
+    width: 35px;
+    position: absolute;
+    top: 530px;
+    left: 380px;
+}
+
+
+#monde {
+    height: 100px ;
+}
+
+
+
+table, td, th
+{
+  border: 3px transparent;
+   /*border: 3px solid black;*/
+  text-align: center;
+  margin: auto;
+
+}
+
+td
+{
+    width: 100%;
+}
+table
+{
+    margin-top: 50px;
+    width: 40px;
+    padding: auto;
+    box-shadow: 0px 5px 5px 5px #777;
+}
+
+button
+{
+    background-color: black;
+    color: white;
+    width: 85%;
+    height: 150%;
+}
+
+#img_bb
+{
+    width: 300px;
+}
+
+#fb
+{
+    border: none;
+    width: 50px;
+    height: 50px;
+    background-color: white;
+}

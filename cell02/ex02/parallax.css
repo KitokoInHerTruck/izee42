@@ -1,0 +1,54 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+
+    div
+    {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: black;
+        background-color: white;
+    }
+h2
+{
+    background-color: white;
+    border-radius: 20px;
+    padding: 5px 5px;
+}
+
+.titi {
+
+    background-image: url(pitichat.jpg);
+    height: 100vh;
+    background-repeat: no-repeat;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parallax {
+ 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:500px;
+    background-color:black;
+    font-size:36px"
+}
+
+.toto {
+
+    background-image: url(grossha);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

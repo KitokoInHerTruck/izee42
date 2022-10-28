@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+    <script> 
+    const generateColor = () => {
+    let generatecolor = (Math.floor(Math.random()*0xFFFFFF)).toString(16);
+    document.body.style.backgroundColor = "#" + randomColor;
+    let text = document.querySelector('#code');
+    text.innerText = "#" + randomColor;
+    }
+    </script>
+
+    <link rel="stylesheet" href="background.css"/>
+    <button onclic="const generatecolor()">Click me</button>
+
+
+</body>
+</html> 

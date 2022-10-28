@@ -1,0 +1,29 @@
+body
+{
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+table, tr, td
+{
+  border: 3px solid #000;
+  border-collapse: collapse;
+}
+
+table
+{
+  width: 100%;
+  height: 100%;
+}
+
+.titi
+{
+  background-color: lightskyblue;
+  width: 50%;
+}
+.toto
+{
+  background-color: lightpink;
+  width: 50%;
+}     
